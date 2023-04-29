@@ -62,8 +62,7 @@ NSLayoutConstraint.activate([
 
 ## Author
 
-- outofcoding, outofcoding@gmail.com
-- DH, mrgamza@gmail.com
+- Donghyuk Lee, mrgamza@gmail.com
 
 ## License
 
